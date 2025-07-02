@@ -27,7 +27,7 @@
 
 ## 🚀 Швидкий старт
 
-1. Встанови [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) на RP2040
+1. Встанови [CircuitPython US-10.0.0-alpha.7.uf2](https://circuitpython.org/board/raspberry_pi_pico/) на RP2040 
 2. Скопіюй `code.py` та папку `lib/` на плату
 3. Натискай кнопку → бачиш, як відправляється `пробіл`
 
