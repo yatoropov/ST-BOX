@@ -1,0 +1,5 @@
+[
+  { "pin": "GP24", "key": "SPACE" },
+  { "pin": "GP15", "key": "ENTER" },
+  { "pin": "GP14", "key": "A" }
+]
